@@ -7,7 +7,7 @@
 
 # Site settings
 title: windJin
-brief-intro: green head
+brief-intro: green head（即刻）
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://windjin.github.io" # the base hostname & protocol for your site
 
